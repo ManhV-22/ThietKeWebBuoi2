@@ -1,0 +1,19 @@
+.under-line{
+    text-decoration: underline;
+    
+}
+.lineThrough{
+    text-decoration: line-through;
+}
+.capitalized-text{
+    text-transform: capitalize;
+}
+.uppercase-text{
+    text-transform: uppercase;
+}
+.lowercase-text{
+    text-transform: lowercase;
+}
+.shadow-text{
+    text-shadow: 2px 2px 4px blue;
+}
